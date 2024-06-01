@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154128827302",
+    "project_id": "androidvision-4e150",
+    "storage_bucket": "androidvision-4e150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154128827302:android:ec6dc8635233ebec5cc567",
+        "android_client_info": {
+          "package_name": "ups.com.aplicacionnativa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLc6cK7-BfNC5khgHhB80uKF-GQoSTlpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
